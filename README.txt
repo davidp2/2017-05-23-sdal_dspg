@@ -5,3 +5,5 @@ Cartoons are great!
 This is the third step
 
 this is the fourth step
+
+I added the output folder with a 
